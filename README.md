@@ -12,8 +12,10 @@ I ship products people actually wanna use. 60M+ visits, six figures in gross rev
 
 ---
 
-## Check Out My Portfolio
-🌐 [aaron-zhang128.github.io](https://aaron-zhang128.github.io/) — best with sound on
+## checkout my
+🌐 [aaron-zhang128.github.io](https://aaron-zhang128.github.io/) — Portfolio 
+
+💬 [Linkdn](https://www.linkedin.com/in/yunhe-aaron-zhang/) - Linkdn
 
 ---
 
