@@ -1,6 +1,6 @@
 # Hi, I'm Aaron Zhang 👋
  
-CS Major @ UCLA and founder of Bunni Games. I build Roblox games end-to-end —
+CS Major @ UCLA and founder of Bunni Games. I build products people actually want to use—
 design, dev, and monetization. 60M+ visits and six figures in gross revenue across multiple titles.
  
 ---
