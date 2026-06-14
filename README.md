@@ -1,25 +1,20 @@
-## about me:
-
-I'm Aaron Zhang, CS Major @ UCLA 
-
-I ship products people actually wanna use. 60M+ visits, six figures in gross revenue across multiple game titles.
-
+# Hi, I'm Aaron Zhang 👋
+ 
+CS Major @ UCLA and founder of Bunni Games. I build Roblox games end-to-end —
+design, dev, and monetization. 60M+ visits and six figures in gross revenue across multiple titles.
+ 
 ---
-
-## stack
-
+ 
+### 🛠 stack
 `Luau` `Python` `JavaScript` `React` `HTML/CSS` `Roblox Studio`
-
+ 
 ---
-
-## checkout my
-🌐 [aaron-zhang128.github.io](https://aaron-zhang128.github.io/) — Portfolio 
-
-💬 [Linkdn](https://www.linkedin.com/in/yunhe-aaron-zhang/) - Linkdn
-
+ 
+### 🔗 links
+- 🌐 [Portfolio](https://aaron-zhang128.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yunhe-aaron-zhang/)
 ---
-
-## stats
-
+ 
+### 📊 stats
 ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-Zhang128&show_icons=true&theme=tokyonight)
-
+ 
