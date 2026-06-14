@@ -1,5 +1,3 @@
-# Aaron Zhang
-
 ## about me:
 
 I'm Aaron Zhang, CS Major @ UCLA 
