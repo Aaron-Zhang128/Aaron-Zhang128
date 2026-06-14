@@ -15,6 +15,3 @@ design, dev, and monetization. 60M+ visits and six figures in gross revenue acro
 - 💼 [LinkedIn](https://www.linkedin.com/in/yunhe-aaron-zhang/)
 ---
  
-### 📊 stats
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-Zhang128&show_icons=true&theme=tokyonight)
- 
