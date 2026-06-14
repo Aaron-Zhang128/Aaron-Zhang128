@@ -6,7 +6,7 @@ design, dev, and monetization. 60M+ visits and six figures in gross revenue acro
 ---
  
 ### 🛠 stack
-`Luau` `Python` `JavaScript` `React` `HTML/CSS` `Roblox Studio`
+`Luau` `Python` `C++` `Java` `JavaScript` `React` `HTML/CSS` `Roblox Studio`
  
 ---
  
