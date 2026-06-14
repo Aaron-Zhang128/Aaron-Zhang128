@@ -2,7 +2,7 @@
 
 I'm Aaron Zhang, CS Major @ UCLA 
 
-I ship products people actually wanna use. 50M+ visits, six figures in gross revenue across multiple game titles.
+I ship products people actually wanna use. 60M+ visits, six figures in gross revenue across multiple game titles.
 
 ---
 
