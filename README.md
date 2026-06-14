@@ -16,7 +16,7 @@ solo dev. ships games people actually play.
  
 ## what I do
  
-I build games and the infrastructure around them — end to end, by myself. [Bunni Games](https://aaron-zhang128.github.io/) has shipped titles with 50M+ plays. Not a side project. Real users, real money, real production systems.
+I build games and the infrastructure around them — end to end, by myself. I've shipped titles with 50M+ plays. Not a side project. Real users, real money, real production systems.
  
 Also do data science — national finalist in the STEM Fellowship Big Data Challenge, now mentoring the next cohort.
  
